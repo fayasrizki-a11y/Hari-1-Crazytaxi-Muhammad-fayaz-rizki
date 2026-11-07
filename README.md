@@ -25,7 +25,6 @@ Berikut merupakan dokumentasi foto selama mengikuti kegiatan Lokakarya Proyek Ha
 ### Foto 2 – Dokumentasi Pembelajaran
 
 ### Foto 3 – Kegiatan Bersama Kelompok Crazy Taxi
-## Dokumentasi Foto Kegiatan
 ![Foto kegiatan](./WhatsApp%20Image%202026-11-07%20at%2022.37.57.jpeg)
 
 ## Kesimpulan
